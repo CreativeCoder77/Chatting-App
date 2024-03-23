@@ -10,6 +10,11 @@ GUI: The GUI is implemented using Tkinter, providing a user-friendly interface f
 
 ## Installation
 
+Clone the repository:
+
+```
+git clone https://github.com/DhairyaAgarwa/Chatting-App.git
+```
 Run the server:
 
 ```bash
