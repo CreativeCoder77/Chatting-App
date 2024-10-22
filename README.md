@@ -13,7 +13,7 @@ GUI: The GUI is implemented using Tkinter, providing a user-friendly interface f
 Clone the repository:
 
 ```
-git clone https://github.com/DhairyaAgarwa/Chatting-App.git
+git clone https://github.com/CreativeCoder77/Chatting-App.git
 ```
 Run the server:
 
